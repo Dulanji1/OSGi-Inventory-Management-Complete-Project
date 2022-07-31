@@ -21,7 +21,7 @@ Bundle is started by the Bundle Activator class. Header in the JAR manifest file
 The Framework provides the Start Level service to control the start/stop of groups of applications.
 
 ## Project Introduction
-I have selected our topic as "Inventory Management System" for our SA assignment1. For this project, we use the OSGi framework and architecture. As well service intercommunication in OSGi Framework, registering services and lifecycle implementation of OSGi bundles.
+This project regading Inventory Management System. For this project use the OSGi framework and architecture. As well service intercommunication in OSGi Framework, registering services and lifecycle implementation of OSGi bundles.
 
 ## Class Diagram
 
